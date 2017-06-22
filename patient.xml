@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><patient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="patientSchema.xsd">
+        
+    
+    <patients>
+        <filecode>151233</filecode>
+        <firstname>Sungkur</firstname>
+        <lastname>Seekcha</lastname>
+        <gender>Female</gender>
+        <dob>09/04/1995</dob>
+        <street>Arya Mandir Road</street>
+        <city>Goodlands</city>
+        <cell>57510238</cell>
+        <home>2836484</home>
+        <email>s.sungkur@umail.utm.ac.mu</email>
+        <medical>No</medical>
+        <allergies>No</allergies>
+        <bloodgroup>O+</bloodgroup>
+        <occupation>Student</occupation>
+        <employfirstname>-</employfirstname>
+        <employlastname>-</employlastname>
+        <employwork>-</employwork>
+        <employstreet>-</employstreet>
+        <employcity>-</employcity>
+        <emerfirstname>Sungkur</emerfirstname>
+        <emerlastname>Chadni</emerlastname>
+        <emerstreet>Arya Mandir Road</emerstreet>
+        <emercity>Goodlands</emercity>
+        <emercell>57577566</emercell>
+        <emerhome>2836484</emerhome>
+        <emeremail>Chadni@gmail.com##</emeremail>
+    </patients>
+
+    <patients>
+        <filecode>151244</filecode>
+        <firstname>Kariman</firstname>
+        <lastname>Akshay</lastname>
+        <gender>Male</gender>
+        <dob>09/04/1992</dob>
+        <street>Dage</street>
+        <city>RDR</city>
+        <cell>88888888</cell>
+        <home>2222222</home>
+        <email>K.akshay@umail.utm.ac.mu</email>
+        <medical>No </medical>
+        <allergies>No</allergies>
+        <bloodgroup>O+</bloodgroup>
+        <occupation>Student</occupation>
+        <employfirstname>-</employfirstname>
+        <employlastname>-</employlastname>
+        <employwork>-</employwork>
+        <employstreet>-</employstreet>
+        <employcity>-</employcity>
+        <emerfirstname>Kariman</emerfirstname>
+        <emerlastname>Akshay</emerlastname>
+        <emerstreet>Dage</emerstreet>
+        <emercity>RDR</emercity>
+        <emercell>99999999</emercell>
+        <emerhome>2834444</emerhome>
+        <emeremail>RD@gmail.com</emeremail>
+    </patients>
+    <patients>
+        <filecode>151217</filecode>
+        <firstname>Vurda</firstname>
+        <lastname>Alpha</lastname>
+        <gender>Male</gender>
+        <dob>25/04/1991</dob>
+        <street>pars</street>
+        <city>Piton</city>
+        <cell>99999999</cell>
+        <home>2938888</home>
+        <email>A.vurda@umail.utm.ac.mu</email>
+        <medical>No</medical>
+        <allergies>No</allergies>
+        <bloodgroup>AB+</bloodgroup>
+        <occupation>Student</occupation>
+        <employfirstname>-</employfirstname>
+        <employlastname>-</employlastname>
+        <employwork>-</employwork>
+        <employstreet>-</employstreet>
+        <employcity>-</employcity>
+        <emerfirstname>Kariman</emerfirstname>
+        <emerlastname>Akshay</emerlastname>
+        <emerstreet>Dage</emerstreet>
+        <emercity>Rdr</emercity>
+        <emercell>58888888</emercell>
+        <emerhome>2554444</emerhome>
+        <emeremail>hey@gmail.com</emeremail>
+    </patients>  
+    
+</patient>
